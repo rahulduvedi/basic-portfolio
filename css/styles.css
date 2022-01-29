@@ -23,7 +23,7 @@ h1{
     font-size: 5.625rem;
     font-family: 'Sacramento', cursive;
     margin:50px  auto 0 auto;
-    transition: 2s;
+    transition: 0.5s;
 }
 
 h1:hover{
